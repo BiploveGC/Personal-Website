@@ -65,10 +65,11 @@ Skills Page
 
  
 About page
- 
- <img width="468" alt="image" src="https://github.com/user-attachments/assets/b46c441c-f6c2-4d2d-ac49-0a69c4c65bd9" />
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/b46c441c-f6c2-4d2d-ac49-0a69c4c65bd9" />
 
 Contact
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/8f2157d0-b474-4cb7-90f4-61ce603329fb" />
 
  
