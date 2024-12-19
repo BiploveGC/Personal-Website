@@ -41,6 +41,8 @@ To run this project locally, follow these steps:
 6.	open index.html file
 7.	Click on “live server” that is located in bottom of screen in blue bar.
 8.	The website will be available on your browser.
+9.	LINK: https://biplovegc.github.io/Personal-Website/
+    
 
 Screenshots:
 
